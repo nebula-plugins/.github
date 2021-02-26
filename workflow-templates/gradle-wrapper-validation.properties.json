@@ -1,0 +1,11 @@
+{
+  "name": "Gradle Wrapper Validation Workflow",
+  "description": "Gradle wrapper validation workflow template.",
+  "iconName": "gradle-logo",
+  "categories": [
+    "Gradle"
+  ],
+  "filePatterns": [
+    "build.gradle"
+  ]
+}

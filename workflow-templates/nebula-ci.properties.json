@@ -1,0 +1,12 @@
+{
+  "name": "Nebula CI Workflow",
+  "description": "nebula-plugins CI workflow template.",
+  "iconName": "nebula-logo",
+  "categories": [
+    "Gradle",
+    "Nebula Plugin",
+  ],
+  "filePatterns": [
+    "build.gradle"
+  ]
+}
