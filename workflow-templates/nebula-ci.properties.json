@@ -4,7 +4,7 @@
   "iconName": "nebula-logo",
   "categories": [
     "Gradle",
-    "Nebula Plugin",
+    "Nebula Plugin"
   ],
   "filePatterns": [
     "build.gradle"
